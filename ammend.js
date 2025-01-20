@@ -1,1 +1,1 @@
-console.log("Ammend the previous commit")
+console.log("Ammend the commit")
