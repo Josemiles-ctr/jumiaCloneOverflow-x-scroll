@@ -9,6 +9,7 @@ header {
     top: 0px;
     left: 0px;
     right: 0px;
+    overflow
 
 }
 
@@ -67,6 +68,7 @@ body {
     margin-right: 100px;
     width: 30%;
     height: fit-content;
+    width: fit-content;
 }
 
 .order-summary button {
