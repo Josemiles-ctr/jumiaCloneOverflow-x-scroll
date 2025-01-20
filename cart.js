@@ -43,19 +43,19 @@ getCartItems()
 if (!cart) {
     cart = [{
         name: `Desktop Computer`,
-        image: `../Lipstick.jpg`,
+        image: `Lipstick.jpg`,
         price: `$250.92`,
         quantity: 10,
         deliveryDate: `Mon, Dec, 27`
     }, {
         name: `113 Pro Max`,
-        image: `../113 pro max.jpg`,
+        image: `113 pro max.jpg`,
         price: `$25.78`,
         quantity: 1,
         deliveryDate: `Mon, Dec, 27`
     }, {
         name: `Lipstick`,
-        image: `../desktop-laptop-computer.webp`,
+        image: `desktop-laptop-computer.webp`,
         price: `$10.12`,
         quantity: 1,
         deliveryDate: `Mon, Dec, 27`
