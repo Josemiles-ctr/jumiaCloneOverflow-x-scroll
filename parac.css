@@ -75,6 +75,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-content: center;
+overflow-x: scroll;
 }
 
 .cart,
@@ -163,6 +164,7 @@ h1 {
 
     header {
         height: 75px;
+        overflow-x: scroll;
 
     }
 
@@ -222,6 +224,7 @@ h1 {
 
     header {
         height: 95px;
+        overflow-x: scroll;
 
     }
 
@@ -281,6 +284,7 @@ h1 {
 
     header {
         height: 95px;
+        overflow-x: scroll;
 
     }
 
@@ -336,6 +340,7 @@ h1 {
 
     header {
         height: 75px;
+        overflow-x: scroll;
 
     }
 
@@ -391,6 +396,7 @@ h1 {
 
     header {
         height: 75px;
+        overflow-x: scroll;
 
     }
 
@@ -446,6 +452,7 @@ h1 {
     }
 
     header {
+        overflow-x: scroll;
         height: 75px;
 
     }
@@ -502,6 +509,7 @@ h1 {
 
     header {
         height: 75px;
+        overflow-x: scroll;
 
     }
 
@@ -559,6 +567,7 @@ h1 {
     }
 
     header {
+        overflow-x: scroll;
         height: 70px;
 
     }
@@ -623,6 +632,8 @@ h1 {
 
     header {
         height: 70px;
+        overflow-x: scroll;
+    
 
     }
 
