@@ -1,0 +1,102 @@
+header {
+    display: flex;
+    height: 89px;
+    background-color: orange;
+    padding: 5px;
+    margin-bottom: 60px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+
+}
+
+
+
+main div button {
+    background-color: firebrick;
+    padding: 8px 18px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: none;
+    border-radius: 30px;
+}
+
+main div p {
+    margin-bottom: 5px;
+    margin-top: 2px;
+    font-weight: 700;
+}
+
+.item {
+    display: flex;
+    border-radius: 5px;
+    padding: 10px;
+    border: solid gray;
+    background-color: rgb(231, 226, 226);
+
+}
+
+body {
+    border-top: gray solid;
+    margin-top: 120px;
+    margin-bottom: 3vh;
+    overflow-x: scroll;
+}
+
+.delivery-day {
+    margin-left: 30px;
+    margin-top: 15%;
+}
+
+.delivery-day p {
+    margin-left: 25px;
+    color: green;
+}
+
+.order-summary {
+    border: 1px grey solid;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+    margin-top: 0px;
+    flex-direction: column;
+    margin-right: 100px;
+    width: 30%;
+    height: fit-content;
+}
+
+.order-summary button {
+    background-color: orangered;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.order-summary div {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.order-total {
+    border-top: 2px grey solid;
+    color: rgb(126, 6, 6);
+    font-size: larger;
+    font-weight: bold;
+
+}
+
+.jumia {
+    width: 40px;
+    padding-top: 20%;
+}
