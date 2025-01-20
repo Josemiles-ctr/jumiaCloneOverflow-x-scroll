@@ -65,8 +65,7 @@ body {
     display: flex;
     margin-top: 0px;
     flex-direction: column;
-    margin-right: 100px;
-    width: 30%;
+    margin-right: auto;
     height: fit-content;
     width: fit-content;
 }
