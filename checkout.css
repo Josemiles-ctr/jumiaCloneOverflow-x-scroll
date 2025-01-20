@@ -4,6 +4,7 @@ header {
     background-color: orange;
     padding: 5px;
     margin-bottom: 60px;
+    overflow-x: scroll;
     position: fixed;
     top: 0px;
     left: 0px;
