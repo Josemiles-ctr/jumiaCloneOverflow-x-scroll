@@ -354,7 +354,7 @@ function original() {
     for (i = 0; i < productsArray.length; i++) {
         htmlEl += `<div class="form">
                <div class="content">
-                    <img height="150px" src="../${productsArray[i].image}" alt="">
+                    <img height="150px" src="${productsArray[i].image}" alt="">
                 
                 <h3>${productsArray[i].name}</h3>
                  <p>Price : ${productsArray[i].price}</p>
@@ -393,7 +393,7 @@ search.onkeyup = function duplicate(callback) {
         for (i = 0; i < result.length; i++) {
             htmlEl = `<div class="form">
                <div class="content">
-                    <img height="150px" src="../${result[i].image}" alt="">
+                    <img height="150px" src="${result[i].image}" alt="">
                 
                 <h3>${result[i].name}</h3>
                  <p>Price : ${result[i].price}</p>
